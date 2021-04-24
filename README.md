@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf](https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf)
 
-- ⚡ Fun fact **I forget a TV show after couple of years :)**
+- ⚡ Fun fact **I usually forget TV show after couple of years :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
