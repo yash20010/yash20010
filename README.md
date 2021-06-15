@@ -1,6 +1,5 @@
 ![YASH PAREKH](https://user-images.githubusercontent.com/7217164/121977736-e5fd0780-cd43-11eb-8506-709edae063bb.png)
 
-<h1 align="center">Hi 👋, I'm Yash Parekh</h1>
 <h3 align="center">A passionate Software Engineer bringing change with every line of code</h3>
 
 - 🌱 I’m currently learning **Node.js Express.js React.js**
