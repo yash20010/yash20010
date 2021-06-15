@@ -1,4 +1,5 @@
-![Yash_github_banner](https://user-images.githubusercontent.com/7217164/121977704-cd8ced00-cd43-11eb-9ab0-58813274117f.png)
+![YASH PAREKH](https://user-images.githubusercontent.com/7217164/121977736-e5fd0780-cd43-11eb-8506-709edae063bb.png)
+
 <h1 align="center">Hi 👋, I'm Yash Parekh</h1>
 <h3 align="center">A passionate Software Engineer bringing change with every line of code</h3>
 
