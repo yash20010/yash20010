@@ -26,6 +26,9 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+---
+
+<h3>About Me</h3>
 
 - 🌱 I’m currently learning **Node.js Express.js React.js**
 
@@ -38,6 +41,8 @@
 - 📄 Know about my experiences [https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf](https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf)
 
 - ⚡ Fun fact **I usually forget TV show after couple of years :)**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
