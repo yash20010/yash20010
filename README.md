@@ -30,7 +30,7 @@
 
 <h3>About Me</h3>
 
-- 🌱 I’m currently learning **Node.js Express.js React.js**
+- 🌱 I’m currently learning **React.js and postgresSQL**
 
 - 👨‍💻 All of my projects are available at [http://yashparekh.netlify.app/](http://yashparekh.netlify.app/)
 
