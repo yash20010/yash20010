@@ -30,17 +30,17 @@
 
 <h3>About Me</h3>
 
-- 🌱 I’m currently learning **React.js and postgresSQL**
+- 🌱 I’m currently learning **Python and MCP**
 
 - 👨‍💻 All of my projects are available at [http://yashparekh.netlify.app/](http://yashparekh.netlify.app/)
 
-- 💬 Ask me about **JavaScript Node.js CSS HTML**
+- 💬 Ask me about **JavaScript Node.js React.js AWS CSS HTML**
 
 - 📫 How to reach me **throne.yash@gmail.com**
 
 - 📄 Know about my experiences [https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf](https://yashparekh.netlify.app/resume/Yash_Parekh-__Software_Engineer.pdf)
 
-- ⚡ Fun fact **I usually forget TV show after couple of years :)**
+- ⚡ Fun fact **I usually forget TV shows after a couple of years :)**
 
 ---
 
